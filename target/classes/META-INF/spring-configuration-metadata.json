@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "data",
+      "type": "you.shall.not.pass.properties.UserProperties",
+      "sourceType": "you.shall.not.pass.properties.UserProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "data.users",
+      "type": "java.util.List<you.shall.not.pass.properties.UserProperties$User>",
+      "sourceType": "you.shall.not.pass.properties.UserProperties"
+    }
+  ],
+  "hints": []
+}
